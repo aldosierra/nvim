@@ -1,0 +1,13 @@
+-- Settings
+require('plugins')
+require('treesitter-conf')
+require('tn-conf')
+require('options')
+require('lualine-conf')
+require('keybindings')
+require('nvimtree-conf')
+require('colorizer-conf')
+require('gitsigns-conf')
+require('dashboard-conf')
+require('toggleterm-conf')
+require('comment-conf')
